@@ -6,7 +6,7 @@ div{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url(../photos/introbg.jpg);
+  background-image: url(../images/introbg.jpg);
   background-size: cover;
 }
 
